@@ -1,0 +1,63 @@
+.Content {
+  margin-top: 72px;
+}
+.kt-bg-1 {
+}
+.kt-min-h {
+  min-height: 200px;
+}
+.kt-progress-hw {
+  height: 5px;
+  width: 100%;
+}
+.kt-prog-bar {
+  width: 65%;
+}
+.kt-widget-info {
+  width: 100%;
+}
+.kt-portlet-bg {
+  background-color: #fd397a;
+}
+.kt-widget-chart {
+  height: 320px;
+}
+.kt-chart-monitor {
+  display: block;
+  width: 516px;
+  height: 216px;
+}
+.dropdown-toggle.btn.btn-secondary {
+  border: none;
+}
+
+.general-dropdown-option {
+  color: black;
+}
+.dropdown-item {
+  padding: 0.65rem 1.5rem !important;
+}
+.dropdown-item:hover {
+  background-color: rgb(163, 163, 163);
+}
+.notification-dropdown-menu {
+  width: 30vw;
+  padding: 0;
+}
+.notification-header:hover {
+  cursor: default;
+  background-color: none !important;
+}
+.notification-wrapper {
+  max-height: 300px;
+  overflow: scroll;
+}
+.notification-dropdown button:hover {
+  background-color: rgb(219, 219, 219);
+}
+.notification-header.dropdown-item:hover {
+  background-color: white;
+}
+.notification-dropdown-button {
+  border-bottom: 1px solid rgb(221, 221, 221);
+}

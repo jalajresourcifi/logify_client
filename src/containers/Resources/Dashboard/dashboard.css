@@ -1,0 +1,26 @@
+.kt-bg-1 {
+}
+.kt-min-h {
+  min-height: 200px;
+}
+.kt-progress-hw {
+  height: 5px;
+  width: 100%;
+}
+.kt-prog-bar {
+  width: 65%;
+}
+.kt-widget-info {
+  width: 100%;
+}
+.kt-portlet-bg {
+  background-color: #fd397a;
+}
+.kt-widget-chart {
+  height: 320px;
+}
+.kt-chart-monitor {
+  display: block;
+  width: 516px;
+  height: 216px;
+}
